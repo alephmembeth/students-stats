@@ -1,0 +1,14 @@
+---
+title: "Stats"
+author: "Alexander Max Bauer"
+date: "Juli 2024"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: openscapes/series
+description: "Eine kurze Einführung."
+---
+
+# Herzlich willkommen! {#willkommen}

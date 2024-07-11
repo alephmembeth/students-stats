@@ -1,0 +1,9 @@
+book_filename: "series"
+language:
+  ui:
+    chapter_name: "Kapitel "
+rmd_files: [
+  "index.Rmd",
+  "literature.Rmd"]
+delete_merged_file: true
+output_dir: "docs"
